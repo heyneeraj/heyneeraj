@@ -18,13 +18,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔐 Cybersecurity Intern at **Purple Nexus LLP**: VAPT, SIEM tools, security reporting
-- 🎓 BCA in Cyber Security, **Jain University**
-- 🏅 **OCSP** certified, Offenso Hackers Academy
+-
 - 🧪 I build CTF challenges and security lab environments
 - 🌱 Currently building **Veedugo**, a home-food delivery app
 - 📍 Pathanamthitta, Kerala, India
-- 💼 Open to opportunities in **Kochi, Thiruvananthapuram, Kozhikode & Bangalore**
+  
 
 ---
 
